@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Dhivakar and i am a student.
 
 <!--
 **Dhivakar1104/Dhivakar1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
